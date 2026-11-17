@@ -1,0 +1,38 @@
+LINE TABLE - which cam / rocker drives which butterfly (v1 design)
+
+This table is the full original design: 12 butterflies, each with a 'bob' line (the butterfly
+moves up/down on its slider) and a 'flap' line (the wings close).
+
+AS BUILT (final piece): flap only, 4 large + 3 medium butterflies.
+  Used rockers : 2, 4, 6, 8 (large #1-#4, 6.3 mm pull) and 9, 10 (medium, 3.15 mm pull + 0.4 mm margin)
+  Not used     : bob rockers 1, 3, 5, 7, 11, 12 (left empty or fitted with filler)
+  Sleeves      : sliders glued fixed in the sleeves, so the butterflies do not bob.
+  Mediums      : of the 8 small positions below, only 3 were fitted: two on rocker 9 (Small A),
+                 one on rocker 10 (Small B). In SYSTEM.md they are numbered #5-#7.
+
+Columns: cam/rocker no. | line | top-plate seat hole (x, y) in mm | destination | approx. PTFE sheath length
+----------------------------------------------------------------------------------------------------
+Cam/rocker  1  L1 bob       seat ( -17.8,  17.1)  ->  butterfly # 1 (large) guide sleeve, bottom end   sheath ~ 95 mm
+Cam/rocker  2  L1 flap      seat ( -14.6,  17.1)  ->  butterfly # 1 (large) slider, bottom end (moves with it)   sheath ~ 67 mm
+Cam/rocker  3  L2 bob       seat ( -11.4,  17.1)  ->  butterfly # 2 (large) guide sleeve, bottom end   sheath ~ 75 mm
+Cam/rocker  4  L2 flap      seat (  -8.2,  17.1)  ->  butterfly # 2 (large) slider, bottom end (moves with it)   sheath ~ 49 mm
+Cam/rocker  5  L3 bob       seat (  -5.0,  17.1)  ->  butterfly # 3 (large) guide sleeve, bottom end   sheath ~ 100 mm
+Cam/rocker  6  L3 flap      seat (  -1.8,  17.1)  ->  butterfly # 3 (large) slider, bottom end (moves with it)   sheath ~ 75 mm
+Cam/rocker  7  L4 bob       seat (   1.4,  17.1)  ->  butterfly # 4 (large) guide sleeve, bottom end   sheath ~ 103 mm
+Cam/rocker  8  L4 flap      seat (   4.6,  17.1)  ->  butterfly # 4 (large) slider, bottom end (moves with it)   sheath ~ 73 mm
+Cam/rocker  9  Small A flap    seat (   7.8,  12.2)  ->  butterfly # 5 (small) slider, bottom end (moves with it)   sheath ~ 74 mm
+Cam/rocker  9  Small A flap    seat (   7.8,  15.5)  ->  butterfly # 7 (small) slider, bottom end (moves with it)   sheath ~ 66 mm
+Cam/rocker  9  Small A flap    seat (   7.8,  18.8)  ->  butterfly # 9 (small) slider, bottom end (moves with it)   sheath ~ 72 mm
+Cam/rocker  9  Small A flap    seat (   7.8,  22.1)  ->  butterfly #11 (small) slider, bottom end (moves with it)   sheath ~ 78 mm
+Cam/rocker 10  Small B flap    seat (  11.0,  12.2)  ->  butterfly # 6 (small) slider, bottom end (moves with it)   sheath ~ 49 mm
+Cam/rocker 10  Small B flap    seat (  11.0,  15.5)  ->  butterfly # 8 (small) slider, bottom end (moves with it)   sheath ~ 83 mm
+Cam/rocker 10  Small B flap    seat (  11.0,  18.8)  ->  butterfly #10 (small) slider, bottom end (moves with it)   sheath ~ 37 mm
+Cam/rocker 10  Small B flap    seat (  11.0,  22.1)  ->  butterfly #12 (small) slider, bottom end (moves with it)   sheath ~ 85 mm
+Cam/rocker 11  Small A bob     seat (  14.2,  12.2)  ->  butterfly # 5 (small) guide sleeve, bottom end   sheath ~ 106 mm
+Cam/rocker 11  Small A bob     seat (  14.2,  15.5)  ->  butterfly # 7 (small) guide sleeve, bottom end   sheath ~ 99 mm
+Cam/rocker 11  Small A bob     seat (  14.2,  18.8)  ->  butterfly # 9 (small) guide sleeve, bottom end   sheath ~ 97 mm
+Cam/rocker 11  Small A bob     seat (  14.2,  22.1)  ->  butterfly #11 (small) guide sleeve, bottom end   sheath ~ 111 mm
+Cam/rocker 12  Small B bob     seat (  17.4,  12.2)  ->  butterfly # 6 (small) guide sleeve, bottom end   sheath ~ 72 mm
+Cam/rocker 12  Small B bob     seat (  17.4,  15.5)  ->  butterfly # 8 (small) guide sleeve, bottom end   sheath ~ 114 mm
+Cam/rocker 12  Small B bob     seat (  17.4,  18.8)  ->  butterfly #10 (small) guide sleeve, bottom end   sheath ~ 61 mm
+Cam/rocker 12  Small B bob     seat (  17.4,  22.1)  ->  butterfly #12 (small) guide sleeve, bottom end   sheath ~ 112 mm
